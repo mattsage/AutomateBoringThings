@@ -1,0 +1,40 @@
+pg. 38-45
+
+Flow Control Statments
+
+If code:
+
+name = 'Alice'
+if name == 'Alice':
+    print('Hi Alice')
+print('Done')
+
+Flow Diagram
+
+change name to Bob and condition = False
+
+Indention is called a block usually after a colon
+
+else statement for when condition is False
+
+password = 'test123'
+if password == 'test123':
+    print('Access Granted')
+else:
+    print ('Access Denied')
+
+flow Diagram
+
+elif - Elseif many conditions you need
+
+name = 'bob'
+age = 3000
+if name = 'Alice':
+    print('hi Alice')
+elif age < 12:
+    print('You are not alice, Kiddo')
+elif age > 2000:
+    print('Unlike you, Alice is not and undead, immortal Vampire')
+elif age > 100:
+    print('You are not alice, Grannie')
+

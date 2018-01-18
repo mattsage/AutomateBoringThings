@@ -1,0 +1,41 @@
+Automate the boring stuff lesson 4
+
+Boolean 
+True or False
+
+Operators
+== Equal to
+!- Not Equal to
+< Less than
+> More than
+<= less than oe equal to
+>= More than or equal to
+
+Strings nor equal to integer e.g 42 == '42' is False
+
+however floating point can be the same eg. 42.0 == 42 is True
+
+Boolean
+And = Both Boolean Operators is True else False
+"And Truth Table"
+True and True = True
+True and False = False
+False and True = False
+False and False = False
+
+Or = Either or both equals True
+"Or Truth Table"
+True or True = True
+True or False = True
+False or True = True
+False or False = False
+
+Not Oposite to Operator e.g. 
+Not True = False
+Not False = True
+
+Examples
+
+myage = '26'
+mypet = 'Cat'
+myage > 20 and mypet == 'Cat'
